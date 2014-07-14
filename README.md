@@ -1,5 +1,7 @@
 # rails-opener
 
+Only works with [edge rails for now](https://github.com/rails/rails/pull/16142).
+
 A small gem which adds command line option to open rails server URL in browser:
 
 ```bash
